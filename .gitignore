@@ -1,6 +1,8 @@
 # 忽略 backend 下的 .env 文件
 backend/.env
 
+frontend/.env
+
 # 忽略 node_modules（在任何层级）
 node_modules/
 
